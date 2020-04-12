@@ -1,9 +1,3 @@
-language: python
-python:
-  - 3.6
-
-install:
-  - pip install -r requirements.txt
-  - python get_rents.py
-  - git add data
-  - git commit -m "update rent data"
+env:
+  matrix:
+    secure: Xq27UXos3QQXOSjadnMmRJaV/1dH1nTRRxOeSW3y5PUyou5eqvYAbNmF2q9Pr+7Km3XdcDfd6sRzY5FycZmD6EJJ+vBWs7LXN2KlCwXP1L9E4vJ3vPQz/xjJbFRbz1Z4JgzOjDbJHCpSLbcDd7JViEEU+RaHcIwkA713gHT7sFmMr0a68LwzITZIhNItqWqfGW4HpxZyWABFfk43vCMmCOJN4NQyLRXklLWOmpUmcmco5+cu2iid2LMEkCulgYGcQQZxdr3D2gSe/6qdeZsHM1KN77HvWJSeEdxQZsz7y75KzzB+lUyrn2CoNFBKB2SJFXx8hxH0Os7jm0P6wbtkt2DML/vj4J17rhqRDJvIvwZPNVoKZOG1qnLzS9dlDNjczldo2jaI/AzDUk4NdfBGnDlUv+NN9U3KvpxZmAnKxywmnLYBOM9pifiFSB5++M24A4PP7naup3ayBWBIPBeJGEz2Oy7kAYDM2nNudsl7CaCPFhlUmaVrhVftDXvlYLBLsSxjVtPbI+wcby9a4PJ96DOBuTdddOCElb+feEt9YjOoQO3irpEwqT3363SduRE6rkQ4S1cUITSciKwFHXj86OIRFeL9urYGEnZk/IJYMP2e79tBNUMrpP6v55JG7kyXEZ+sN4VuT1eYTmELp1ep34y5XhCfxXOG6rUlbQmb8PA=
