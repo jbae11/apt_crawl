@@ -190,7 +190,7 @@ qtconsole==4.4.3
 QtPy==1.7.0
 requests==2.21.0
 requests-oauthlib==1.2.0
-rope==0.10.7
+rope==0.11.0
 ruamel-yaml==0.15.71
 s3transfer==0.2.0
 scale-postproc==0.1
