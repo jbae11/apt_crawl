@@ -1,14 +1,14 @@
 Region,Apartment,Beds,Baths,Rent,URL
-Hardin Valley,Enlcave at Hardin Valley,1,1,1138.5,https://www.apartments.com/the-enclave-of-hardin-valley-knoxville-tn/bxy8e18/
-Hardin Valley,Enlcave at Hardin Valley,2,2,1407.5,https://www.apartments.com/the-enclave-of-hardin-valley-knoxville-tn/bxy8e18/
-Hardin Valley,Enlcave at Hardin Valley,2,2,1229.5,https://www.apartments.com/the-enclave-of-hardin-valley-knoxville-tn/bxy8e18/
-Hardin Valley,Enlcave at Hardin Valley,3,2,1353.5,https://www.apartments.com/the-enclave-of-hardin-valley-knoxville-tn/bxy8e18/
+Hardin Valley,Enlcave at Hardin Valley,1,1,970.0,https://www.apartments.com/the-enclave-of-hardin-valley-knoxville-tn/bxy8e18/
+Hardin Valley,Enlcave at Hardin Valley,2,2,983.0,https://www.apartments.com/the-enclave-of-hardin-valley-knoxville-tn/bxy8e18/
+Hardin Valley,Enlcave at Hardin Valley,2,2,1143.0,https://www.apartments.com/the-enclave-of-hardin-valley-knoxville-tn/bxy8e18/
+Hardin Valley,Enlcave at Hardin Valley,3,2,1247.0,https://www.apartments.com/the-enclave-of-hardin-valley-knoxville-tn/bxy8e18/
 Hardin Valley,Greystone Summit,3,2,1479.0,https://www.apartments.com/greystone-summit-knoxville-knoxville-tn/5ll68lm/
 Hardin Valley,Greystone Summit,1,1,1099.0,https://www.apartments.com/greystone-summit-knoxville-knoxville-tn/5ll68lm/
 Hardin Valley,Greystone Vista,1,1,1115.0,https://www.apartments.com/greystone-vista-knoxville-tn/renmlr1/
 Hardin Valley,Greystone Vista,2,2,1395.0,https://www.apartments.com/greystone-vista-knoxville-tn/renmlr1/
+Hardin Valley,Greystone Vista,1,1,1140.0,https://www.apartments.com/greystone-vista-knoxville-tn/renmlr1/
 Hardin Valley,Greystone Vista,2,2,1355.0,https://www.apartments.com/greystone-vista-knoxville-tn/renmlr1/
-Hardin Valley,Greystone Vista,1,1,0,https://www.apartments.com/greystone-vista-knoxville-tn/renmlr1/
 Hardin Valley,Greystone Vista,3,2,0,https://www.apartments.com/greystone-vista-knoxville-tn/renmlr1/
 Turkey Creek,Tapestry Turkey Creek,1,1,1142.5,https://www.apartments.com/tapestry-at-turkey-creek-knoxville-tn/qvnevly/
 Turkey Creek,Tapestry Turkey Creek,2,2,1435.0,https://www.apartments.com/tapestry-at-turkey-creek-knoxville-tn/qvnevly/
@@ -63,6 +63,7 @@ Turkey Creek,Overlook at Farragut,1,1,1149.0,https://www.apartments.com/overlook
 Turkey Creek,Overlook at Farragut,1,1,1164.0,https://www.apartments.com/overlook-farragut-knoxville-tn/7fxlkcz/
 Turkey Creek,Overlook at Farragut,2,2,1459.0,https://www.apartments.com/overlook-farragut-knoxville-tn/7fxlkcz/
 Turkey Creek,Overlook at Farragut,2,2,1444.0,https://www.apartments.com/overlook-farragut-knoxville-tn/7fxlkcz/
+Turkey Creek,Overlook at Farragut,2,2,1734.0,https://www.apartments.com/overlook-farragut-knoxville-tn/7fxlkcz/
 Turkey Creek,Overlook at Farragut,3,2,1614.0,https://www.apartments.com/overlook-farragut-knoxville-tn/7fxlkcz/
 Turkey Creek,Overlook at Farragut,2,2,1454.0,https://www.apartments.com/overlook-farragut-knoxville-tn/7fxlkcz/
 Turkey Creek,Overlook at Farragut,3,2,1599.0,https://www.apartments.com/overlook-farragut-knoxville-tn/7fxlkcz/
@@ -122,7 +123,6 @@ Oak Ridge,Centennial Village ,2,2,1203.5,https://www.apartments.com/centennial-v
 Oak Ridge,Centennial Village ,3,2,1476.0,https://www.apartments.com/centennial-village-apartments-oak-ridge-tn/hlc46x2/
 Oak Ridge,Tara Hills ,2,1,815.0,https://www.apartments.com/tara-hills-oak-ridge-tn/qz82e4x/
 Oak Ridge,Tara Hills ,2,1,830.0,https://www.apartments.com/tara-hills-oak-ridge-tn/qz82e4x/
-Oak Ridge,Tara Hills ,2,1,0,https://www.apartments.com/tara-hills-oak-ridge-tn/qz82e4x/
 Oak Ridge,Tara Hills ,1,1,700.0,https://www.apartments.com/tara-hills-oak-ridge-tn/qz82e4x/
 Oak Ridge,Tara Hills ,1,1,0,https://www.apartments.com/tara-hills-oak-ridge-tn/qz82e4x/
 Oak Ridge,Tara Hills ,3,1.5,923.5,https://www.apartments.com/tara-hills-oak-ridge-tn/qz82e4x/
